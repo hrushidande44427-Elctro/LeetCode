@@ -30,12 +30,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/hrushidande44427-Elctro/LeetCode/tree/master/0242-valid-anagram) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/hrushidande44427-Elctro/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Array
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/hrushidande44427-Elctro/LeetCode/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/hrushidande44427-Elctro/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0066-plus-one](https://github.com/hrushidande44427-Elctro/LeetCode/tree/master/0066-plus-one) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/hrushidande44427-Elctro/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Greedy
 |  |
 | ------- |
@@ -52,4 +54,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/hrushidande44427-Elctro/LeetCode/tree/master/0042-trapping-rain-water) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/hrushidande44427-Elctro/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 <!---LeetCode Topics End-->
